@@ -1,0 +1,9 @@
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.csproj.AssemblyReference.cache
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.AssemblyInfoInputs.cache
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.AssemblyInfo.cs
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.csproj.CoreCompileInputs.cache
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.RazorAssemblyInfo.cache
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.RazorAssemblyInfo.cs
+C:\Users\nithi\OneDrive\Desktop\API\MVC\Student_Portal\Model_View_Control\obj\Debug\net8.0\Model_View_Control.sourcelink.json

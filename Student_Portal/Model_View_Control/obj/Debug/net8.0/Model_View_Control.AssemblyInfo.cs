@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Model_View_Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ace1d16b466c9003b6779a14b5615644ffa7e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ace857c25dddcc50388669d163bc6eb501abc394")]
 [assembly: System.Reflection.AssemblyProductAttribute("Model_View_Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Model_View_Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
